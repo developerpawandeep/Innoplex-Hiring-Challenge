@@ -1,0 +1,21 @@
+Data Description
+train.csv
+Contains the labelled texts with sentiment values for a given drug
+
+ 
+Variable 	Definition
+unique_hash 	Unique ID
+text 	text pertaining to the drugs
+drug 	drug name for which the sentiment is provided
+sentiment 	(Target) 0-positive, 1-negative, 2-neutral
+ 
+test.csv
+test.csv contains texts with drug names for which the participants are expected to predict the correct sentiment
+
+ 
+sample_submission.csv
+sample_submission.csv contains the submission format for the predictions against the test set. NA single csv needs to be submitted as a solution. The submission file must contain only 2 columns <unique_hash>,<sentiment>.
+
+ 
+
+  
