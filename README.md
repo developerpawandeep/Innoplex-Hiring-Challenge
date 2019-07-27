@@ -7,7 +7,7 @@ Nowadays the narrative of a brand is not only built and controlled by the compan
 
 The challenge is that the language used in this type of content is not strictly grammatically correct. Some use sarcasm. Others cover several topics with different sentiments in one post. Other users post comments and reply and thereby indicating his/her sentiment around the topic.
 
-Sentiment can be clubbed into 3 major buckets - Positive, Negative and Neutral Sentiments.
+Sentiment can be clubbed into 3 major buckets -  Positive, Negative and Neutral Sentiments.
 
  
 
